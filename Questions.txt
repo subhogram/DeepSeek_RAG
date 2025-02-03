@@ -1,0 +1,2 @@
+I am running a company in London. It collects and process all of Europe's user data in my servers based in China without explicit consent of European users. Answer in 'yes' or 'no' if my company GDPR compliant?
+If an user deletes his/her account from my social media company, under GDPR compliance can I retain any data that can directly identify that individual?
